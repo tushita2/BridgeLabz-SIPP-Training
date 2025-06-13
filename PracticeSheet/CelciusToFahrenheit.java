@@ -1,6 +1,6 @@
-package Practice_Sheet;
+package PracticeSheet;
 
-public class Celcius_to_Fahrenheit {
+public class CelciusToFahrenheit {
     public static void main(String[] args) {
         java.util.Scanner scanner = new java.util.Scanner(System.in);
         

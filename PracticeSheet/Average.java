@@ -1,4 +1,4 @@
-package Practice_Sheet;
+package PracticeSheet;
 
 public class Average {
     public static void main(String[] args) {
