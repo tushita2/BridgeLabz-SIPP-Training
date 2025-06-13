@@ -1,7 +1,7 @@
 //Add Two Numbers
 package practicesheet_1;
 
-public class Ques_2 {
+public class Sum_of_Two {
     public static void main(String[] args) {
         java.util.Scanner scanner = new java.util.Scanner(System.in);
         

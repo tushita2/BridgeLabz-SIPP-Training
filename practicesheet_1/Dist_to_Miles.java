@@ -1,6 +1,6 @@
 package practicesheet_1;
 
-public class Ques_1{
+public class Dist_to_Miles{
     public static void main(String[] args) {
         
         java.util.Scanner scanner = new java.util.Scanner(System.in);
