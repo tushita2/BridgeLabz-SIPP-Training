@@ -1,4 +1,4 @@
-package practicesheet_1;
+package Practice_Sheet;
 
 public class Celcius_to_Fahrenheit {
     public static void main(String[] args) {

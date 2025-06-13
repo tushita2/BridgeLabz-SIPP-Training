@@ -1,5 +1,5 @@
 //Add Two Numbers
-package practicesheet_1;
+package Practice_Sheet;
 
 public class Sum_of_Two {
     public static void main(String[] args) {

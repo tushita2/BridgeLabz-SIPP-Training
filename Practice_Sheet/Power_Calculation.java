@@ -1,4 +1,4 @@
-package practicesheet_1;
+package Practice_Sheet;
 
 public class Power_Calculation {
     public static void main(String[] args) {

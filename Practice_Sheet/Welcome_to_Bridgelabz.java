@@ -1,4 +1,4 @@
-package practicesheet_1 ;
+package Practice_Sheet ;
 public class Welcome_to_Bridgelabz {
     public static void main(String[] args) {
        

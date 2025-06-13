@@ -1,4 +1,4 @@
-package practicesheet_1;
+package Practice_Sheet;
 
 public class Area_of_Circle {
     public static void main(String[] args) {
