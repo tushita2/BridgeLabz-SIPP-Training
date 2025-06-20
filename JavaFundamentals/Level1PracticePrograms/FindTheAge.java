@@ -1,4 +1,4 @@
-package Level1PracticePrograms;
+package Day1_JavaFundamentals;
 
 public class FindTheAge {
     public static void main(String[] args) {
